@@ -1,0 +1,32 @@
+.colorrojo{
+    background-color: red;
+}
+.colorazul{
+    background-color: blue;
+}
+#vader{
+    font-size: 30px; 
+}
+#luke{
+    font-style: italic;
+}
+.borde{
+    border: 4px dashed black; /* Borde simulado con rayas usando dashed */
+    padding: 10px;
+    margin: 10px;
+}
+.soldado{
+    letter-spacing: 5px;
+}
+.centrado{
+    text-align: center;
+}
+#center {
+    text-align: center;
+}
+#imagen{
+    margin-left: 100px;
+}
+#imagen1 {
+margin-left: 150px;
+}
